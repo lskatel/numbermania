@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Игра с числами</string>
+    <string name="btn_new_game_text">Новая игра</string>
+    <string name="btn_help_text">Помощь</string>
+    <string name="btn_options_text">Настройки</string>
+    <string name="btn_statistics_text">Статистика</string>
+
+    <string name="btn_1_18_text">1 - 18</string>
+    <string name="btn_1_19_text">1 - 19</string>
+
+    <string name="btn_game_add_text">Обновить</string>
+    <string name="btn_game_back_text">Назад</string>
+    <string name="btn_game_help_text">Подсказка</string>
+    <string name="btn_game_clear_text">Очистить</string>
+    <string name="btn_game_new_text">Заного</string>
+</resources>
